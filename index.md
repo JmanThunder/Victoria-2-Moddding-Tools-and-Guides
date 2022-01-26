@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
-   * [Modding Bible](#modders-bible-of-events-and-decisions)**<br>
-   * [Guide](#guides)**<br>
-   * [Programs](#tools-and-programs)**<br>
-   * [Editing Programs](#editors)**<br>
-   * [General Practices](#general-practices)**<br>
+   * [Modding Bible](#modders-bible-of-events-and-decisions)
+   * [Guide](#guides)
+   * [Programs](#tools-and-programs)
+   * [Editing Programs](#editors)
+   * [General Practices](#general-practices)
    
 
 ## Modder's Bible of Events and Decisions
