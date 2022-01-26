@@ -1,6 +1,6 @@
 # Victoria II Tools and Guides for Modding
 
-## [Victoria 2 Modding Server for futher questions and help](https://discord.gg/M7fZVQcCvA)
+## [Victoria 2 Modding Server for further questions and help](https://discord.gg/M7fZVQcCvA)
 
 ## Table of Contents
 
