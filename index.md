@@ -1,6 +1,6 @@
 # Victoria II Tools and Guides for Modding
 
-# [Victoria 2 Modding Server for futher questions and help](https://discord.gg/M7fZVQcCvA)
+## [Victoria 2 Modding Server for futher questions and help](https://discord.gg/M7fZVQcCvA)
 
 ## Table of Contents
 
@@ -26,7 +26,10 @@
 ### [Custom Scopes](https://forum.paradoxplaza.com/forum/threads/massive-breakthrough-creating-your-own-scopes-using-regions-utility-tags-are-now-obsolete.1495300/)
 
 ## Tools amd Programs
-``
+### [Scenario Editor](https://sourceforge.net/projects/eug/files/Clausewitz%20Scenario%20Editor/Scenario_Editor_0.9.7.zip/download)
+![Lower Left Corner](pictures/how_to_use_scen.png)
+### [Nation Establisher (Tag Maker)](https://forum.paradoxplaza.com/forum/threads/victoria-2-tag-creator.685792/)
+### [Victoria 2 Utilities(includes the 2 above but outdated)](https://www.dropbox.com/s/f6p3sj0oz6qd5kk/Vic2%20Utilities.rar?dl=0)
 
 You can use the [editor on GitHub](https://github.com/JmanThunder/Victoria-2-Moddding-Tools-and-Guides/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
