@@ -36,6 +36,8 @@
 ### [Scenario Editor](https://sourceforge.net/projects/eug/files/Clausewitz%20Scenario%20Editor/Scenario_Editor_0.9.7.zip/download)
 ![image](https://user-images.githubusercontent.com/53799051/151111327-016ff110-2712-4b43-b6f9-c43973ed3124.png)
 ### [Nation Establisher (Tag Maker)](https://forum.paradoxplaza.com/forum/threads/victoria-2-tag-creator.685792/)
+### Vanilla Provinces and IDs
+![image](https://user-images.githubusercontent.com/53799051/151214190-ac816c93-f2fd-46c7-b4a2-496ee2a499a5.png)
 ### [Victoria 2 Utilities (includes the 2 above but outdated)](https://www.dropbox.com/s/f6p3sj0oz6qd5kk/Vic2%20Utilities.rar?dl=0)
 #### The Victoria 2 Utilities include
 #### -**Positions Editor**: Modify where things appear in each province
