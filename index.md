@@ -53,7 +53,7 @@
 ### [Terrain Editor](https://drive.google.com/file/d/165jAW8iTrUxv4XUEMUUw0mk_VBzyzatV/view?usp=sharing)
 ### [Missing Bracket Finder (when the validator says "line -1, column -1")](https://jmrchelani.github.io/missing-braces-finder/) 
 ### [Blank Map Maker](https://cdn.discordapp.com/attachments/791309512652226591/910351549690171452/ck2autoborder.7z)The tool requires[Processing3](https://processing.org/download)
-### [Victoria 2 Province Creator](https://github.com/Cukla/VicII-Province-Creator/releases) and [Experimental Version (Can edid existing provinces but make break)](https://cdn.discordapp.com/attachments/933500881880616980/935323895681142834/Vic2_province_creator.zip)
+### [Victoria 2 Province Creator](https://github.com/Cukla/VicII-Province-Creator/releases) and [Experimental Version (Can edit existing provinces but make break)](https://cdn.discordapp.com/attachments/933500881880616980/935323895681142834/Vic2_province_creator.zip)
 ![image](https://user-images.githubusercontent.com/53799051/151108543-09e4ebbd-dbc7-428d-b0a8-b914b184bc07.png)
 
 ## Editors
