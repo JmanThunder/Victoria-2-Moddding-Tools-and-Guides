@@ -1,4 +1,30 @@
-## Welcome to GitHub Pages
+# Victoria II Tools and Guides for Modding
+
+# [Victoria 2 Modding Server for futher questions and help](https://discord.gg/M7fZVQcCvA)
+
+## Table of Contents
+
+## Modder's Bible of Events and Decisions
+### [Effects Wiki](https://vic2.paradoxwikis.com/List_of_effects)
+### [Scopes Wiki](https://vic2.paradoxwikis.com/List_of_scopes)
+### [Conditions Wiki](https://vic2.paradoxwikis.com/List_of_conditions)
+### [Modifier Effects Wiki](https://vic2.paradoxwikis.com/Modifier_effects)
+
+## A list of different localization text keys
+### [Localization Keys](https://forum.paradoxplaza.com/forum/threads/localization-text-key-list.946323/)
+
+## Guides
+### [BigWeevil's General Modding Guide](https://docs.google.com/document/d/1M6vrSN4sEgXID59jwGg3ATymU1gRu6qNEA4Fw_O1RQU/edit)
+### [Radsterman's Advanced Modding Guide(Incomplete)](https://docs.google.com/document/d/1xjTbUN6P8EtvcHBbULupJm0VmREtyI4V0t2ORpFi4Jo/edit)
+### [Manually Adding Provinces Guide](https://www.reddit.com/r/paradoxplaza/comments/3s6j0b/adding_new_provinces_to_victoria_2_a_miniguide/)
+### [Creating New Units Types Guide](https://www.reddit.com/r/victoria2/comments/jh2qqb/a_guide_to_creating_new_units/)
+### [New Religions Guide](https://forum.paradoxplaza.com/forum/threads/victoria-2-hod-creating-adding-new-religion.856476/post-19365249)
+### [Multiplying Pops(Requires EMeditor)](https://stackoverflow.com/questions/64560449/trying-multiplying-numbers-on-a-line-starting-with-the-word-size-with-a-consta)
+### [Assimilating Pops Via Event/Decisions Guide](https://www.reddit.com/r/victoria2/comments/k4kehk/how_to_assimilate_pops_by_event/)
+## Emulation Guides
+### [IF Emulation](https://forum.paradoxplaza.com/forum/threads/if-emulation-bringing-the-if-scope-to-pre-eu4-paradox-game-code.1478104/)
+### [Custom Scopes](https://forum.paradoxplaza.com/forum/threads/massive-breakthrough-creating-your-own-scopes-using-regions-utility-tags-are-now-obsolete.1495300/)
+
 
 You can use the [editor on GitHub](https://github.com/JmanThunder/Victoria-2-Moddding-Tools-and-Guides/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
