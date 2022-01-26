@@ -27,7 +27,7 @@
 
 ## Tools amd Programs
 ### [Scenario Editor](https://sourceforge.net/projects/eug/files/Clausewitz%20Scenario%20Editor/Scenario_Editor_0.9.7.zip/download)
-![Lower Left Corner](pictures/how_to_use_scen.png)
+![alt text][pictures/how_to_use_scen.png]
 ### [Nation Establisher (Tag Maker)](https://forum.paradoxplaza.com/forum/threads/victoria-2-tag-creator.685792/)
 ### [Victoria 2 Utilities(includes the 2 above but outdated)](https://www.dropbox.com/s/f6p3sj0oz6qd5kk/Vic2%20Utilities.rar?dl=0)
 
